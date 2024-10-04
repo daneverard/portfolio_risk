@@ -1,6 +1,5 @@
 import numpy as np
 
-
 profit_matrix = 0
 
 def independent_binomial_loss_distribution(N,M,p,c,r,alpha):
